@@ -35,4 +35,4 @@ This project involved the security assessment of a simulated CTF environment, fo
 ## 📌 Methodology
 All testing followed a structured penetration testing methodology.
 
-See: ../Methodology/pentest-methodology.md 
+See: https://github.com/Hexhera/Penetration-testing-projects/blob/main/Methodology/pentest-methodology.md 
