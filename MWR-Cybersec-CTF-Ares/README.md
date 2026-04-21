@@ -13,7 +13,7 @@ This project involved the security assessment of a simulated CTF environment, fo
 
 ---
 
-## Tools Used
+## 🛠️ Tools Used
 - Nmap
 - Burp Suite
 - Gobuster
