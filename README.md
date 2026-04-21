@@ -5,8 +5,8 @@ Welcome to my penetration testing portfolio. This repository showcases practical
 
 ## 📂 Projects
 
-- 🧪 Virtual Lab Pentest
-- 🌐 MWR Web Application Project
+- [ Virtual Lab Pentest](./Virtual-Lab-Pentest)
+- [ MWR Cybersec CTF – Ares](./MWR-Cybersec-CTF-Ares)
   
 
 ## 🧠 Skills Demonstrated
